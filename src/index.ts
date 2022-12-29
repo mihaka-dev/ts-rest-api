@@ -5,7 +5,8 @@ const port: Number = 4000;
 
 app.use("/health", (req: Request, res: Response, next: NextFunction) => {
     res.status(200).send({
-        status: "200"
+        status: "200",
+        message: "Server is Normal Running"
     })
 })
 
