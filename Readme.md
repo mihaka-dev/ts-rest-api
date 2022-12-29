@@ -8,4 +8,5 @@
 8. Run ``npm i --save-dev --save-exact prettier``
 9. Run ``npm i -D husky pretty-quick``
 10. Run ``npm i pino pino-pretty moment``
-10. Run ``npm i body-parser cors @types/cors``
+11. Run ``npm i body-parser cors @types/cors``
+12. Run ``npm i joi``
