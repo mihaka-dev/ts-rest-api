@@ -10,3 +10,4 @@
 10. Run ``npm i pino pino-pretty moment``
 11. Run ``npm i body-parser cors @types/cors``
 12. Run ``npm i joi``
+12. Run ``npm i mongoose dotenv``
