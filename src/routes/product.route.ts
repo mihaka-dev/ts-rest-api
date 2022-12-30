@@ -5,5 +5,5 @@ export const ProductRouter: Router = Router()
 
 // http://{URL}/product
 ProductRouter.get('/', getProduct)
-ProductRouter.get('/:name', getProduct)
+ProductRouter.get('/:id', getProduct)
 ProductRouter.post('/', createProduct)
